@@ -1,0 +1,23 @@
+html{
+    background: radial-gradient(rgb(9, 93, 172),rgb(126, 11, 187),rgb(19, 142, 198));
+}
+h1{
+    text-align: center;
+    font-family: "Damion", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(236, 17, 105);
+    font-weight: bold;
+}
+vid{
+    position:absolute;
+    width:100%;
+    height:100%;
+    text-align: center;
+
+}
+vid iframe{
+    width:40%;
+    height: 50%;
+    border: solid red 1px;
+}
